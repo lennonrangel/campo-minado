@@ -1,4 +1,4 @@
-# JOGO DE CAMPO MINADO EM PYHTON COM TKINTER
+# JOGO DE CAMPO MINADO
 
 ## Introdução
 
@@ -31,7 +31,6 @@ Para executar o jogo em seu próprio sistema, siga estas etapas:
 1. Certifique-se de ter o Python instalado em seu computador.
 2. Clone este repositório ou faça o download dos arquivos.
 3. Abra o terminal e navegue até o diretório do projeto.
-4. Execute o código para iniciar o jogo:
 
 ## Personalização
 
